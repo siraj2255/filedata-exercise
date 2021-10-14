@@ -1,0 +1,7 @@
+D:\AjitBackup-03-08-2020\AProjects\DeveloperInterviewExercise\ThirdPartyTools\bin\Debug\ThirdPartyTools.dll.config
+D:\AjitBackup-03-08-2020\AProjects\DeveloperInterviewExercise\ThirdPartyTools\bin\Debug\ThirdPartyTools.dll
+D:\AjitBackup-03-08-2020\AProjects\DeveloperInterviewExercise\ThirdPartyTools\bin\Debug\ThirdPartyTools.pdb
+D:\AjitBackup-03-08-2020\AProjects\DeveloperInterviewExercise\ThirdPartyTools\obj\Debug\ThirdPartyTools.csproj.CoreCompileInputs.cache
+D:\AjitBackup-03-08-2020\AProjects\DeveloperInterviewExercise\ThirdPartyTools\obj\Debug\ThirdPartyTools.dll
+D:\AjitBackup-03-08-2020\AProjects\DeveloperInterviewExercise\ThirdPartyTools\obj\Debug\ThirdPartyTools.pdb
+D:\AjitBackup-03-08-2020\AProjects\DeveloperInterviewExercise\ThirdPartyTools\obj\Debug\ThirdPartyTools.csprojAssemblyReference.cache

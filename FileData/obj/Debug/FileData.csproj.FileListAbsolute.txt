@@ -1,0 +1,11 @@
+D:\AjitBackup-03-08-2020\AProjects\DeveloperInterviewExercise\FileData\bin\Debug\FileData.exe.config
+D:\AjitBackup-03-08-2020\AProjects\DeveloperInterviewExercise\FileData\bin\Debug\FileData.exe
+D:\AjitBackup-03-08-2020\AProjects\DeveloperInterviewExercise\FileData\bin\Debug\FileData.pdb
+D:\AjitBackup-03-08-2020\AProjects\DeveloperInterviewExercise\FileData\bin\Debug\ThirdPartyTools.dll
+D:\AjitBackup-03-08-2020\AProjects\DeveloperInterviewExercise\FileData\bin\Debug\ThirdPartyTools.pdb
+D:\AjitBackup-03-08-2020\AProjects\DeveloperInterviewExercise\FileData\bin\Debug\ThirdPartyTools.dll.config
+D:\AjitBackup-03-08-2020\AProjects\DeveloperInterviewExercise\FileData\obj\Debug\FileData.csprojAssemblyReference.cache
+D:\AjitBackup-03-08-2020\AProjects\DeveloperInterviewExercise\FileData\obj\Debug\FileData.csproj.CoreCompileInputs.cache
+D:\AjitBackup-03-08-2020\AProjects\DeveloperInterviewExercise\FileData\obj\Debug\FileData.csproj.CopyComplete
+D:\AjitBackup-03-08-2020\AProjects\DeveloperInterviewExercise\FileData\obj\Debug\FileData.exe
+D:\AjitBackup-03-08-2020\AProjects\DeveloperInterviewExercise\FileData\obj\Debug\FileData.pdb
